@@ -1,0 +1,7 @@
+The code was tested on google collab
+To run, simply execute all the cells of notebook
+
+Results:
+Correct Predictions: 4993
+Total Predictions: 10000
+Accuracy of the model: 49 %
